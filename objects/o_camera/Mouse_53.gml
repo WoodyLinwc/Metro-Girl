@@ -1,0 +1,1 @@
+add_screen_shake(4,8);
