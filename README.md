@@ -1,5 +1,5 @@
 # Metro-Girl
-This is a 2D hack-and-slash game created with GM2 engine for Windows platform. You download the 'MetroGirlDemo.MP4' file for a preview.
+This is a 2D hack-and-slash game created with GM2 engine for Windows platform. You can download the 'MetroGirlDemo.MP4' file for a preview.
 ![Fighting](fighting.png)
 ![Game over](sprites/s_gameover/end.png)
 
