@@ -5,8 +5,9 @@ This is a 2D hack-and-slash game created with GM2 engine for Windows platform. Y
 
 ## Installation
 1. Download the 'Metro Girl.zip' file to your computer desktop.
-2. Unzip it and run the 'Metro Girl.exe' file.
-3. Now, enjoy the game.
+2. Extract the 'Metro Girl' file to a desired folder.
+3. Run the 'Metro Girl.exe' file inside the folder.
+4. Now, enjoy the game:)
 
 
 ## Game Background
